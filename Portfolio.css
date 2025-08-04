@@ -1466,7 +1466,7 @@ section {
 @media (max-width: 360px) {
   .profile-card {
       width: 200px;
-      height: 240px;
+      height: 500px;
       margin: 0 auto;
       position: relative;
       display: flex;
