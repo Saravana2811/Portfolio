@@ -1182,7 +1182,7 @@ body {
 }
 
 .gradient-text {
-  background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+  background: linear-gradient(45deg, yellow, rgb(128, 73, 0));
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
